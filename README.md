@@ -1,8 +1,6 @@
 # DADS5001-Final
 IMDb Insight
 
-Github Code
-•	https://github.com/pongsapaks/DADS5001-Final.git
 Dataset Information
 •	Data from https://github.com/yash91sharma/IMDB-Movie-Dataset-Analysis/blob/master/movie_metadata.csv 
 •	Data เกี่ยวกับ ข้อมูลที่เกี่ยวข้อง ใน website IMDb
